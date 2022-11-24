@@ -1,0 +1,20 @@
+# ninja log v5
+0	23	1669262617482888913	build.ninja	91cd276c5d40041f
+175	240	1669261628678197339	projetoAutomatosCpp	5019eb768df63f5f
+0	175	1669261628610197385	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+0	223	1669266110462130277	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+223	288	1669266110526131993	projetoAutomatosCpp	5019eb768df63f5f
+0	191	1669266427764061714	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+191	258	1669266427832062536	projetoAutomatosCpp	5019eb768df63f5f
+0	203	1669266636321946479	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+203	260	1669266636377946835	projetoAutomatosCpp	5019eb768df63f5f
+0	199	1669266970735063575	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+200	262	1669266970799063633	projetoAutomatosCpp	5019eb768df63f5f
+1	191	1669267390510653967	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+192	256	1669267390574653812	projetoAutomatosCpp	5019eb768df63f5f
+1	194	1669267588234089850	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+194	256	1669267588294089655	projetoAutomatosCpp	5019eb768df63f5f
+1	194	1669267826593232026	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+194	257	1669267826657231775	projetoAutomatosCpp	5019eb768df63f5f
+0	189	1669268128645752263	CMakeFiles/projetoAutomatosCpp.dir/EP1.cpp.o	def4bf72b2e8e7e5
+189	253	1669268128709750614	projetoAutomatosCpp	5019eb768df63f5f
